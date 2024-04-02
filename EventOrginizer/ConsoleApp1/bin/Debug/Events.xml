@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Events>
+  <Event>
+    <Name>Concert</Name>
+    <DateTime>21.04.2024</DateTime>
+    <Description>.</Description>
+    <UniqueID>1</UniqueID>
+  </Event>
+</Events>
